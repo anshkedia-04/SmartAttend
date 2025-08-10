@@ -1,0 +1,13 @@
+# Ignore model files
+*.h5
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Ignore zip archives
+*.zip
+
+# Ignore cache and temp files
+__pycache__/
+*.log

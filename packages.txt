@@ -1,0 +1,21 @@
+# Core packages
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tensorflow==2.12.0
+keras==2.12.0
+
+# FaceNet specific
+mtcnn
+facenet-pytorch
+Pillow
+
+# Flask (if backend integration)
+Flask
+flask-cors
+
+# For saving/loading models
+h5py
+joblib
